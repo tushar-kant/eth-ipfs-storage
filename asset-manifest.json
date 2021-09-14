@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/eth-ipfs-storage/static/css/main.d850c1a7.chunk.css",
+    "main.js": "/eth-ipfs-storage/static/js/main.d1162075.chunk.js",
+    "main.js.map": "/eth-ipfs-storage/static/js/main.d1162075.chunk.js.map",
+    "runtime-main.js": "/eth-ipfs-storage/static/js/runtime-main.4b88e40f.js",
+    "runtime-main.js.map": "/eth-ipfs-storage/static/js/runtime-main.4b88e40f.js.map",
+    "static/css/2.9937f3fc.chunk.css": "/eth-ipfs-storage/static/css/2.9937f3fc.chunk.css",
+    "static/js/2.b626b980.chunk.js": "/eth-ipfs-storage/static/js/2.b626b980.chunk.js",
+    "static/js/2.b626b980.chunk.js.map": "/eth-ipfs-storage/static/js/2.b626b980.chunk.js.map",
+    "index.html": "/eth-ipfs-storage/index.html",
+    "precache-manifest.8ed0e37f6444b7504845e133e194d029.js": "/eth-ipfs-storage/precache-manifest.8ed0e37f6444b7504845e133e194d029.js",
+    "service-worker.js": "/eth-ipfs-storage/service-worker.js",
+    "static/css/2.9937f3fc.chunk.css.map": "/eth-ipfs-storage/static/css/2.9937f3fc.chunk.css.map",
+    "static/css/main.d850c1a7.chunk.css.map": "/eth-ipfs-storage/static/css/main.d850c1a7.chunk.css.map",
+    "static/js/2.b626b980.chunk.js.LICENSE.txt": "/eth-ipfs-storage/static/js/2.b626b980.chunk.js.LICENSE.txt",
+    "static/media/box.png": "/eth-ipfs-storage/static/media/box.df8b84d5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b88e40f.js",
+    "static/css/2.9937f3fc.chunk.css",
+    "static/js/2.b626b980.chunk.js",
+    "static/css/main.d850c1a7.chunk.css",
+    "static/js/main.d1162075.chunk.js"
+  ]
+}
